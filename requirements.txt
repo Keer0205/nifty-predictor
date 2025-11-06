@@ -1,0 +1,10 @@
+streamlit
+yfinance
+pandas
+numpy
+ta-lib
+vaderSentiment
+requests
+beautifulsoup4
+matplotlib
+pytz
